@@ -1,4 +1,4 @@
-message: Config from application.yml
+message: Config from jjjj.yml
 
 logging: # <---- New Entry
   level:
