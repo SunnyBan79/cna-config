@@ -9,3 +9,7 @@
 * [Issue Workflow](jira-guide/undefined-1.md)
 * [Sprint Life-Cycle & Milestones](jira-guide/sprint-life-cycle-and-milestones.md)
 
+## Gitlab Guide
+
+* [Intro](gitlab-guide/intro.md)
+
