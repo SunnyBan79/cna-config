@@ -18,7 +18,7 @@ description: 프로젝트 내 이슈처리 계층 구조를 정의
 
 다음 그림은 프로젝트 이슈 구조를 나타내고 있다.
 
-![](.gitbook/assets/issue-structure_org-chart-1-.png)
+![](../.gitbook/assets/issue-structure_org-chart-1-.png)
 
  Story, Task, Bug 및 Sub-Task는 쉽게 구분할 수 있도록 Prefix을 가지며, Prefix 명명 규칙은 다음과 같다.
 

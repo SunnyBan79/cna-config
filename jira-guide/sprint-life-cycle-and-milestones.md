@@ -26,5 +26,5 @@ Sprint Life-Cycle은 분석/설계 &gt; 개발/단위시험 &gt; 통합시험 &g
   * PRD Release 2주차 목요일 19:00 ~, G-Cloud, EPC, AI통화비서 운영환경
 * Sprint Close: 2주차 금요일 18:00
 
-![](.gitbook/assets/sprint-milestone.png)
+![](../.gitbook/assets/sprint-milestone.png)
 

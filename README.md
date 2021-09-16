@@ -1,5 +1,5 @@
 ---
-description: AIBOT 2.0 고도화 프로젝트 수행에 필요한 기본적인 Jira 사용 가이드 제공
+description: AIBOT 2.0 고도화 프로젝트 수행에 필요한 기본적인 가이드 제공
 ---
 
 # Intro

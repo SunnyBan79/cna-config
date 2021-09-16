@@ -18,5 +18,5 @@ description: 이슈 관리 단계 및 각 단계별 수행 주체(Owner) 및 수
 
 다음 그림은 이슈의 처리 흐름\(Issue Workflow\)을 나타낸다.
 
-![&amp;lt;Issue Workflow&amp;gt;](.gitbook/assets/issue_workflow.png)
+![&amp;lt;Issue Workflow&amp;gt;](../.gitbook/assets/issue_workflow.png)
 
